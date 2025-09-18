@@ -4,7 +4,7 @@ import { GoPlus } from "react-icons/go";
 import { HiMiniBars3 } from "react-icons/hi2";
 import { IoSearchOutline } from "react-icons/io5";
 import { Link } from "react-router-dom";
-import Icon from "../components/ui/Icons";
+import Icon from "./ui/Icons";
 import { authStore } from "../store/authStore";
 import { changeShowcaseStore } from "../store/showStore";
 
